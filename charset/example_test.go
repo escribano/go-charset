@@ -3,8 +3,8 @@ package charset_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/paulrosania/go-charset/charset"
-	_ "github.com/paulrosania/go-charset/data"
+	"github.com/escribano/go-charset/charset"
+	_ "github.com/escribano/go-charset/data"
 	"io/ioutil"
 	"log"
 	"strings"
